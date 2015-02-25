@@ -7,7 +7,6 @@
 
 <head>
 
-    <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 
     <meta charset="<?php bloginfo( 'charset' ); ?>" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -16,6 +15,13 @@
     <title><?php wp_title(''); ?></title>
     
     <link rel="shortcut icon" href="<?php bloginfo('stylesheet_directory'); ?>/favicon.ico" />
+
+    <!-- Tear Cloth -->
+
+    <link rel="stylesheet" type="text/css" href="../tear-cloth/style.css">
+
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 
     <?php wp_head(); ?>
     <?php get_wpbs_theme_options(); ?>
@@ -112,6 +118,14 @@
                         );
                     ?>
             <div class="social-links">
+            <?php if ( is_user_logged_in() ) { ?>
+            <a href="<?php echo wp_logout_url('template_url'); ?>"><span class="glyphicon glyphicon-log-out white"> Logout</span></a>
+                         
+        <?php } else { ?>
+
+            <a href="http://localhost/avisbuildingsupply/wp-login.php"><span class="glyphicon glyphicon-log-in white"> Login</span></a>
+            <a href="http://localhost/avisbuildingsupply/wp-login.php?action=register"><span class="glyphicon glyphicon-new-window white"> Register</span></a>
+        <?php } ?>
                 <?php get_template_part( 'partials/svg','declaration'); ?>
             </div>
                </div>

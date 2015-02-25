@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.1.1" created="2015-02-25 05:34" -->
+<!-- generator="WordPress/4.1.1" created="2015-02-25 14:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,16 +26,16 @@
 >
 
 <channel>
-	<title>Home of 77Tactical</title>
+	<title>77StarMilsim</title>
 	<link>http://localhost/77starmilsim</link>
-	<description>77 Star Milsim</description>
-	<pubDate>Wed, 25 Feb 2015 05:34:12 +0000</pubDate>
+	<description>Just another WordPress site</description>
+	<pubDate>Wed, 25 Feb 2015 14:15:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/77starmilsim</wp:base_site_url>
 	<wp:base_blog_url>http://localhost/77starmilsim</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>chris@avisbuildingsupply.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>Admin</wp:author_login><wp:author_email>Chris@goldenproportions.com</wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>menu</wp:term_slug><wp:term_name><![CDATA[Menu]]></wp:term_name></wp:term>
@@ -45,15 +45,15 @@
 	<item>
 		<title>Hello world!</title>
 		<link>http://localhost/77starmilsim/?p=1</link>
-		<pubDate>Sat, 14 Feb 2015 16:07:54 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2015 11:59:07 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2015-02-14 16:07:54</wp:post_date>
-		<wp:post_date_gmt>2015-02-14 16:07:54</wp:post_date_gmt>
+		<wp:post_date>2015-02-25 11:59:07</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 11:59:07</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>hello-world</wp:post_name>
@@ -70,8 +70,8 @@
 			<wp:comment_author_email></wp:comment_author_email>
 			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
 			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2015-02-14 16:07:54</wp:comment_date>
-			<wp:comment_date_gmt>2015-02-14 16:07:54</wp:comment_date_gmt>
+			<wp:comment_date>2015-02-25 11:59:07</wp:comment_date>
+			<wp:comment_date_gmt>2015-02-25 11:59:07</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
@@ -83,8 +83,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 	<item>
 		<title>Sample Page</title>
 		<link>http://localhost/77starmilsim/?page_id=2</link>
-		<pubDate>Sat, 14 Feb 2015 16:07:54 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2015 11:59:07 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
@@ -98,8 +98,8 @@ To delete a comment, just log in and view the post&#039;s comments. There you wi
 As a new WordPress user, you should go to <a href="http://localhost/77starmilsim/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2015-02-14 16:07:54</wp:post_date>
-		<wp:post_date_gmt>2015-02-14 16:07:54</wp:post_date_gmt>
+		<wp:post_date>2015-02-25 11:59:07</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 11:59:07</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>sample-page</wp:post_name>
@@ -115,17 +115,89 @@ As a new WordPress user, you should go to <a href="http://localhost/77starmilsim
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Hello world!</title>
+		<link>http://localhost/77starmilsim/?p=6</link>
+		<pubDate>Sat, 14 Feb 2015 16:07:54 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date>2015-02-14 16:07:54</wp:post_date>
+		<wp:post_date_gmt>2015-02-14 16:07:54</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hello-world-2</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP></wp:comment_author_IP>
+			<wp:comment_date>2015-02-14 16:07:54</wp:comment_date>
+			<wp:comment_date_gmt>2015-02-14 16:07:54</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Sample Page</title>
+		<link>http://localhost/77starmilsim/?page_id=7</link>
+		<pubDate>Sat, 14 Feb 2015 16:07:54 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my blog. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="http://localhost/77starmilsim/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date>2015-02-14 16:07:54</wp:post_date>
+		<wp:post_date_gmt>2015-02-14 16:07:54</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>sample-page-2</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Home</title>
 		<link>http://localhost/77starmilsim/</link>
 		<pubDate>Sat, 14 Feb 2015 16:08:34 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?page_id=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="dropbox">"Praise be to The Lord my Rock, who trains my hands for war, my fingers for battle." <br/>-Psalms 144:1</div>
-
+		<content:encoded><![CDATA[<div class="dropbox">"Praise be to The Lord my Rock, who trains my hands for war, my fingers for battle."
+-Psalms 144:1</div>
 We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and follow us on Instagram and Facebook by clicking the icons in the top left corner of the page.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
+		<wp:post_id>8</wp:post_id>
 		<wp:post_date>2015-02-14 16:08:34</wp:post_date>
 		<wp:post_date_gmt>2015-02-14 16:08:34</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
@@ -148,19 +220,19 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/77starmilsim/?p=6</link>
-		<pubDate>Sat, 14 Feb 2015 16:08:48 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/?p=6</guid>
+		<link>http://localhost/77starmilsim/?p=9</link>
+		<pubDate>Wed, 25 Feb 2015 12:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/?p=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date>2015-02-14 16:08:48</wp:post_date>
-		<wp:post_date_gmt>2015-02-14 16:08:48</wp:post_date_gmt>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date>2015-02-25 12:00:30</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:00:30</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>6</wp:post_name>
+		<wp:post_name>9</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
@@ -178,7 +250,7 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -205,7 +277,7 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		<title>77 Tactical</title>
 		<link>http://localhost/77starmilsim/?page_id=13</link>
 		<pubDate>Wed, 25 Feb 2015 03:07:57 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?page_id=13</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h3>Meet the team.</h3>
@@ -234,19 +306,19 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost/77starmilsim/?p=15</link>
-		<pubDate>Wed, 25 Feb 2015 03:08:17 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/?p=15</guid>
+		<link>http://localhost/77starmilsim/?p=14</link>
+		<pubDate>Wed, 25 Feb 2015 12:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/?p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date>2015-02-25 03:08:17</wp:post_date>
-		<wp:post_date_gmt>2015-02-25 03:08:17</wp:post_date_gmt>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date>2015-02-25 12:00:31</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:00:31</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>15</wp:post_name>
+		<wp:post_name>14</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
@@ -288,258 +360,13 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Ian-schultz</title>
-		<link>http://localhost/77starmilsim/?attachment_id=17</link>
-		<pubDate>Wed, 25 Feb 2015 04:55:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Ian-schultz.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date>2015-02-25 04:55:24</wp:post_date>
-		<wp:post_date_gmt>2015-02-25 04:55:24</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>ian-schultz</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Ian-schultz.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/Ian-schultz.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:23:"2015/02/Ian-schultz.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"Ian-schultz-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"Ian-schultz-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[ian-r-32]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Jack-Horberger</title>
-		<link>http://localhost/77starmilsim/?attachment_id=18</link>
-		<pubDate>Wed, 25 Feb 2015 04:55:25 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Jack-Horberger.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date>2015-02-25 04:55:25</wp:post_date>
-		<wp:post_date_gmt>2015-02-25 04:55:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>jack-horberger</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Jack-Horberger.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/Jack-Horberger.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:26:"2015/02/Jack-Horberger.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"Jack-Horberger-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:26:"Jack-Horberger-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[jake-v-30]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Justin-Gaffney</title>
-		<link>http://localhost/77starmilsim/?attachment_id=19</link>
-		<pubDate>Wed, 25 Feb 2015 04:55:25 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Justin-Gaffney.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date>2015-02-25 04:55:25</wp:post_date>
-		<wp:post_date_gmt>2015-02-25 04:55:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>justin-gaffney</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Justin-Gaffney.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/Justin-Gaffney.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:239;s:6:"height";i:264;s:4:"file";s:26:"2015/02/Justin-Gaffney.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"Justin-Gaffney-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[Justin-g-31]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Michael-Hornberger</title>
-		<link>http://localhost/77starmilsim/?attachment_id=20</link>
-		<pubDate>Wed, 25 Feb 2015 04:55:26 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Michael-Hornberger.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date>2015-02-25 04:55:26</wp:post_date>
-		<wp:post_date_gmt>2015-02-25 04:55:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>michael-hornberger</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Michael-Hornberger.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/Michael-Hornberger.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:30:"2015/02/Michael-Hornberger.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"Michael-Hornberger-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:30:"Michael-Hornberger-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[michael-l-34]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Noah-Gavlock</title>
-		<link>http://localhost/77starmilsim/?attachment_id=21</link>
-		<pubDate>Wed, 25 Feb 2015 04:55:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Noah-Gavlock.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date>2015-02-25 04:55:27</wp:post_date>
-		<wp:post_date_gmt>2015-02-25 04:55:27</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>noah-gavlock</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Noah-Gavlock.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/Noah-Gavlock.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:24:"2015/02/Noah-Gavlock.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"Noah-Gavlock-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"Noah-Gavlock-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[noah-s-37]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Thad-Cower</title>
-		<link>http://localhost/77starmilsim/?attachment_id=22</link>
-		<pubDate>Wed, 25 Feb 2015 04:55:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Thad-Cower.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date>2015-02-25 04:55:27</wp:post_date>
-		<wp:post_date_gmt>2015-02-25 04:55:27</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>thad-cower</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Thad-Cower.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/Thad-Cower.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:22:"2015/02/Thad-Cower.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"Thad-Cower-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"Thad-Cower-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[Thad-d-33]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Tye-Cowher</title>
-		<link>http://localhost/77starmilsim/?attachment_id=23</link>
-		<pubDate>Wed, 25 Feb 2015 04:55:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Tye-Cowher.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date>2015-02-25 04:55:28</wp:post_date>
-		<wp:post_date_gmt>2015-02-25 04:55:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>tye-cowher</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Tye-Cowher.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2015/02/Tye-Cowher.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:22:"2015/02/Tye-Cowher.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"Tye-Cowher-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"Tye-Cowher-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[Tye--g-36]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Ian Schultz</title>
 		<link>http://localhost/77starmilsim/?team=ian-schultz-2</link>
 		<pubDate>Wed, 25 Feb 2015 04:58:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=team&#038;p=24</guid>
 		<description></description>
-		<content:encoded><![CDATA[<strong>Call Sign:</strong> R-32 
+		<content:encoded><![CDATA[<strong>Call Sign:</strong> R-32
 <strong>DOB:</strong> 1998
 <strong>Unit Member since:</strong> 2012]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -561,14 +388,14 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[17]]></wp:meta_value>
+			<wp:meta_value><![CDATA[32]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Tye Cowher</title>
 		<link>http://localhost/77starmilsim/?team=tye-cowher-2</link>
 		<pubDate>Wed, 25 Feb 2015 04:59:22 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=team&#038;p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Callsign:</strong> G-36
@@ -593,14 +420,14 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[23]]></wp:meta_value>
+			<wp:meta_value><![CDATA[38]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Justin Gaffney</title>
 		<link>http://localhost/77starmilsim/?team=justin-gaffney-2</link>
 		<pubDate>Wed, 25 Feb 2015 05:00:16 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=team&#038;p=26</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Callsign:</strong> G-31
@@ -625,14 +452,451 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[19]]></wp:meta_value>
+			<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Ian-schultz</title>
+		<link>http://localhost/77starmilsim/?attachment_id=32</link>
+		<pubDate>Wed, 25 Feb 2015 12:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Ian-schultz1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date>2015-02-25 12:00:56</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:00:56</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>ian-schultz</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Ian-schultz1.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/02/Ian-schultz1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:24:"2015/02/Ian-schultz1.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"Ian-schultz1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:24:"Ian-schultz1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[Ian-schultz]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Jack-Horberger</title>
+		<link>http://localhost/77starmilsim/?attachment_id=33</link>
+		<pubDate>Wed, 25 Feb 2015 12:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Jack-Horberger1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date>2015-02-25 12:00:57</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:00:57</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>jack-horberger</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Jack-Horberger1.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/02/Jack-Horberger1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:27:"2015/02/Jack-Horberger1.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"Jack-Horberger1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"Jack-Horberger1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[Jack-hornberger]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Justin-Gaffney</title>
+		<link>http://localhost/77starmilsim/?attachment_id=34</link>
+		<pubDate>Wed, 25 Feb 2015 12:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Justin-Gaffney1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date>2015-02-25 12:00:58</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:00:58</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>justin-gaffney</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Justin-Gaffney1.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/02/Justin-Gaffney1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:239;s:6:"height";i:264;s:4:"file";s:27:"2015/02/Justin-Gaffney1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"Justin-Gaffney1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[Justin-gaffney]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Michael-Hornberger</title>
+		<link>http://localhost/77starmilsim/?attachment_id=35</link>
+		<pubDate>Wed, 25 Feb 2015 12:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Michael-Hornberger1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date>2015-02-25 12:00:59</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:00:59</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>michael-hornberger</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Michael-Hornberger1.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/02/Michael-Hornberger1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:31:"2015/02/Michael-Hornberger1.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"Michael-Hornberger1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"Michael-Hornberger1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[michael-hornberger]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Noah-Gavlock</title>
+		<link>http://localhost/77starmilsim/?attachment_id=36</link>
+		<pubDate>Wed, 25 Feb 2015 12:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Noah-Gavlock1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date>2015-02-25 12:01:00</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:01:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>noah-gavlock</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Noah-Gavlock1.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/02/Noah-Gavlock1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:25:"2015/02/Noah-Gavlock1.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"Noah-Gavlock1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"Noah-Gavlock1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[noah-gavlock]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Thad-Cower</title>
+		<link>http://localhost/77starmilsim/?attachment_id=37</link>
+		<pubDate>Wed, 25 Feb 2015 12:01:01 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Thad-Cower1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37</wp:post_id>
+		<wp:post_date>2015-02-25 12:01:01</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:01:01</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>thad-cower</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Thad-Cower1.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/02/Thad-Cower1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:23:"2015/02/Thad-Cower1.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"Thad-Cower1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"Thad-Cower1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[thad-cowher]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Tye-Cowher</title>
+		<link>http://localhost/77starmilsim/?attachment_id=38</link>
+		<pubDate>Wed, 25 Feb 2015 12:01:02 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/wp-content/uploads/2015/02/Tye-Cowher1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date>2015-02-25 12:01:02</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 12:01:02</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>tye-cowher</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://localhost/77starmilsim/wp-content/uploads/2015/02/Tye-Cowher1.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/02/Tye-Cowher1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:350;s:4:"file";s:23:"2015/02/Tye-Cowher1.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"Tye-Cowher1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"Tye-Cowher1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[tye-cowher]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Store</title>
+		<link>http://localhost/77starmilsim/?page_id=42</link>
+		<pubDate>Wed, 25 Feb 2015 13:49:18 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/?page_id=42</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- Ecwid code. Please do not remove this line  otherwise your Ecwid shopping cart will not work properly. --> [ecwid widgets="productbrowser search" grid="3,3" list="10" table="20" default_category_id="0" category_view="grid" search_view="grid" minicart_layout="attachToCategories" ] <!-- Ecwid code end -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date>2015-02-25 13:49:18</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 13:49:18</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>store</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+	</item>
+	<item>
+		<title></title>
+		<link>http://localhost/77starmilsim/?p=43</link>
+		<pubDate>Wed, 25 Feb 2015 13:58:22 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/?p=43</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>43</wp:post_id>
+		<wp:post_date>2015-02-25 13:58:22</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 13:58:22</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>43</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Contact form 1</title>
+		<link>http://localhost/77starmilsim/?post_type=wpcf7_contact_form&#038;p=4</link>
+		<pubDate>Wed, 25 Feb 2015 11:59:52 +0000</pubDate>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=wpcf7_contact_form&#038;p=4</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Your Name (required)<br />
+    [text* your-name] </p>
+
+<p>Your Email (required)<br />
+    [email* your-email] </p>
+
+<p>Subject<br />
+    [text your-subject] </p>
+
+<p>Your Message<br />
+    [textarea your-message] </p>
+
+<p>[submit "Send"]</p>
+[your-subject]
+[your-name] <Chris@goldenproportions.com>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on 77StarMilsim (http://localhost/77starmilsim)
+Chris@goldenproportions.com
+Reply-To: [your-email]
+
+0
+0
+
+[your-subject]
+77StarMilsim <Chris@goldenproportions.com>
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on 77StarMilsim (http://localhost/77starmilsim)
+[your-email]
+Reply-To: Chris@goldenproportions.com
+
+0
+0
+Your message was sent successfully. Thanks.
+Failed to send your message. Please try later or contact the administrator by another method.
+Validation errors occurred. Please confirm the fields and submit it again.
+Failed to send your message. Please try later or contact the administrator by another method.
+Please accept the terms to proceed.
+Please fill the required field.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date>2015-02-25 11:59:52</wp:post_date>
+		<wp:post_date_gmt>2015-02-25 11:59:52</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>contact-form-1</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>wpcf7_contact_form</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_form</wp:meta_key>
+			<wp:meta_value><![CDATA[<p>Your Name (required)<br />
+    [text* your-name] </p>
+
+<p>Your Email (required)<br />
+    [email* your-email] </p>
+
+<p>Subject<br />
+    [text your-subject] </p>
+
+<p>Your Message<br />
+    [textarea your-message] </p>
+
+<p>[submit "Send"]</p>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_mail</wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:41:"[your-name] <Chris@goldenproportions.com>";s:4:"body";s:179:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on 77StarMilsim (http://localhost/77starmilsim)";s:9:"recipient";s:27:"Chris@goldenproportions.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_mail_2</wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:42:"77StarMilsim <Chris@goldenproportions.com>";s:4:"body";s:121:"Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on 77StarMilsim (http://localhost/77starmilsim)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:37:"Reply-To: Chris@goldenproportions.com";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_messages</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:31:"Please fill the required field.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_additional_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_locale</wp:meta_key>
+			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Thad Cowher</title>
 		<link>http://localhost/77starmilsim/?team=thad-cowher</link>
 		<pubDate>Wed, 25 Feb 2015 05:01:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=team&#038;p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Callsign:</strong> D-33
@@ -657,14 +921,14 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[22]]></wp:meta_value>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Michael Hornberger</title>
 		<link>http://localhost/77starmilsim/?team=michael-hornberger-2</link>
 		<pubDate>Wed, 25 Feb 2015 05:01:50 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=team&#038;p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Callsign:</strong> L-34
@@ -689,14 +953,14 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[20]]></wp:meta_value>
+			<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Noah Gavlock</title>
 		<link>http://localhost/77starmilsim/?team=noah-gavlock-2</link>
 		<pubDate>Wed, 25 Feb 2015 05:02:43 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=team&#038;p=29</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Callsign:</strong> S-37
@@ -721,14 +985,14 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[21]]></wp:meta_value>
+			<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Jake Hornberger</title>
 		<link>http://localhost/77starmilsim/?team=jake-hornberger</link>
 		<pubDate>Wed, 25 Feb 2015 05:03:49 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=team&#038;p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>Callsign:</strong> V-30
@@ -753,14 +1017,14 @@ We are 77 Star Milsim an airsoft team out of Williamsport, PA. You can find and 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[18]]></wp:meta_value>
+			<wp:meta_value><![CDATA[33]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://localhost/77starmilsim/?post_type=wpcf7_contact_form&#038;p=7</link>
+		<link>http://localhost/77starmilsim/?post_type=wpcf7_contact_form&#038;p=31</link>
 		<pubDate>Sat, 14 Feb 2015 16:09:12 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/77starmilsim/?post_type=wpcf7_contact_form&#038;p=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>Your Name (required)<br />
@@ -811,12 +1075,12 @@ Failed to send your message. Please try later or contact the administrator by an
 Please accept the terms to proceed.
 Please fill the required field.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
+		<wp:post_id>31</wp:post_id>
 		<wp:post_date>2015-02-14 16:09:12</wp:post_date>
 		<wp:post_date_gmt>2015-02-14 16:09:12</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>contact-form-1</wp:post_name>
+		<wp:post_name>contact-form-1-2</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
