@@ -20,6 +20,10 @@
 
     <link rel="stylesheet" type="text/css" href="../tear-cloth/style.css">
 
+    <!--Carousel-->
+    <link href="<?php bloginfo('stylesheet_directory'); ?>/jsImgSlider/themes/1/js-image-slider.css" rel="stylesheet" type="text/css" />
+    <script src="<?php bloginfo('stylesheet_directory'); ?>/jsImgSlider/themes/1/js-image-slider.js" type="text/javascript"></script>
+
     <!-- Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 
