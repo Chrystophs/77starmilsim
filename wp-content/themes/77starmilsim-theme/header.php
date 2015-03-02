@@ -92,12 +92,12 @@
     </div>
 </div> -->
 </header>
-<?php if (of_get_option('make_nav_sticky') == 1) : ?> 
+<?php if (of_get_option('make_nav_sticky') == 1) : ?>
 <div data-spy="affix" data-offset-top="210" data-offset-bottom="200">
-<?php endif; ?>
-<div class="navbar navbar-default">
+<?php endif; ?> 
+<!-- <div class="navbar navbar-default">-->
     <div class="containernav">
-          <nav class="navigation" role="navigation">
+          <nav class="navigation navbar navbar-default" role="navigation">
               <div class="navbar-header">
                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
@@ -119,12 +119,12 @@
                     ?>
             <div class="social-links">
             <?php if ( is_user_logged_in() ) { ?>
-            <a href="<?php echo wp_logout_url('template_url'); ?>"><span class="glyphicon glyphicon-log-out white"> Logout</span></a>
+            <a href="<?php echo wp_logout_url(''); ?>"><span class="glyphicon glyphicon-log-out white"> Logout</span></a>
                          
         <?php } else { ?>
 
-            <a href="http://localhost/avisbuildingsupply/wp-login.php"><span class="glyphicon glyphicon-log-in white"> Login</span></a>
-            <a href="http://localhost/avisbuildingsupply/wp-login.php?action=register"><span class="glyphicon glyphicon-new-window white"> Register</span></a>
+            <a href="<?php echo wp_login_url(''); ?>"><span class="glyphicon glyphicon-log-in white"> Login</span></a>
+            <a href="<?php echo wp_login_url(''); ?>?action=register"><span class="glyphicon glyphicon-new-window white"> Register</span></a>
         <?php } ?>
                 <?php get_template_part( 'partials/svg','declaration'); ?>
             </div>
@@ -133,6 +133,7 @@
     </div>
 </div>
 <?php if (of_get_option('make_nav_sticky') == 1) : ?> 
-</div>
+<!-- </div> -->
 <?php endif; ?>
+
 

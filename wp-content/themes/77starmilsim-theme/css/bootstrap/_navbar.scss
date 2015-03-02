@@ -98,7 +98,7 @@
 .container-fluid {
   > .navbar-header,
   > .navbar-collapse {
-    background: linear-gradient(#125902,#000000) !important;
+    background: linear-gradient(#858585,#000000) !important;
     margin-right: -$navbar-padding-horizontal;
     margin-left:  -$navbar-padding-horizontal;
 
@@ -184,7 +184,7 @@
   margin-right: $navbar-padding-horizontal;
   padding: 9px 10px;
   @include navbar-vertical-align(34px);
-  background: linear-gradient(#125902,#000000) !important;
+  background: linear-gradient(#858585,#000000) !important;
   //background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
   border: 1px solid transparent;
   border-radius: $border-radius-base;
@@ -237,7 +237,7 @@
       float: none;
       width: auto;
       margin-top: 0;
-      background: linear-gradient(#125902,#000000) !important;
+      background: linear-gradient(#858585,#000000) !important;
       border: 0;
       box-shadow: none;
       > li > a,
@@ -387,7 +387,7 @@
 
 // Default navbar
 .navbar-default {
-  background: linear-gradient(#125902,#000000);
+  background: linear-gradient(#858585,#000000);
   border-color: $navbar-default-border;
 
   .navbar-brand {

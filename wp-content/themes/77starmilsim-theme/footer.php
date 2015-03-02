@@ -47,10 +47,11 @@
 </div>
 <?php endif; ?>-->
 <footer>
-<div class="navbar navbar-default">
+<div class="containernav navbar navbar-default">
 </div>
+<div class="container">
     <div class="footer-bar">
-        <div class="container f-bar-bg">   
+        <div class="f-bar-bg">   
             <div class="row">
             	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-5">
                         <?php 
@@ -120,7 +121,7 @@
                             <img src="<?php bloginfo('template_url'); ?>/i/logo.png" alt="<?php bloginfo('name'); ?>" class="img-responsive foot-logo"/>
                         </a>
                     <?php } ?>
-                    <div class="footer-links">
+                    <!-- <div class="footer-links">
                     <?php 
                         wp_nav_menu( array(
                         'theme_location' => 'Footer Menu',
@@ -130,13 +131,15 @@
                         'fallback_cb'    => '__return_false')
                         );
                     ?>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
     </div>
+</div>
+<div class="containernav">
     <div class="footer-copyright">
-        <div class="container footer-bg"> 
+        <div class="footer-bg"> 
             <div class="row">
                 <div class="col-xs-12">
                     <p class="copyright">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?> - Designed &amp; Developed by <a href="http://www.goldenproportions.com" target="_blank">Golden Proportions Marketing</a> - <?php wp_loginout(); ?></p>
@@ -144,6 +147,7 @@
             </div>
         </div>
     </div>
+</div>
 </footer>
 <?php wp_footer(); ?>
 

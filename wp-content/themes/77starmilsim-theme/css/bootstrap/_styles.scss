@@ -148,7 +148,9 @@ box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
     background: #fff;
   }
   .containernav {
-    background: linear-gradient(#125902,#000000);
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    background: linear-gradient(#858585,#000000);
   }
 }
 
@@ -319,13 +321,13 @@ box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
 /*Footer Styles */
 
 .foot-logo{
-  height: 250px;
-  width: 200px;
+  height: 200px;
+  width: 150px;
 }
 
 .footer-bar {
   background: $footer-bar-color;
-  padding: 50px 0px 50px 0px;
+  padding: 50px 0px 20px 0px;
 }
 .footer-copyright {
   background: $copyright-bar-color ;
@@ -339,7 +341,7 @@ box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
 }
 .f-map{
   img {
-    margin-bottom: 20px;
+    margin-bottom: 5px;
   }
 }
 .copyright {

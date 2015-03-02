@@ -373,12 +373,12 @@ $containernav-lg:                 $containernav-large-desktop !default;
 //== Navbar
 //
 //##
-
+//floor(($grid-gutter-width / 2))
 // Basics of a navbar
 $navbar-height:                    50px !default;
 $navbar-margin-bottom:             0px !default;
 $navbar-border-radius:             0px !default;
-$navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;
+$navbar-padding-horizontal:        0px !default;
 $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2) !default;
 $navbar-collapse-max-height:       340px !default;
 
