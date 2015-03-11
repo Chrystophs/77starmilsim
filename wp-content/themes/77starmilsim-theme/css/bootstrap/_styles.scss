@@ -177,6 +177,13 @@ box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
 }
 
 /* Contact Page */
+/* Tells the Slider to hide when anything viewing below 769px do not remove.*/
+
+@media screen and (max-width: 769px) { 
+  .sliderhider { 
+    display: none !important; 
+  }
+}
 
 .contact-headline {
   margin: 20px 0px 20px 0px;
@@ -249,10 +256,10 @@ box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
   }
 }
 
-@media (max-width: 700px) {
+@media screen and (max-width: 600px) {
   .h-bg {
     background-image: url(../i/header4.jpg);
-    background-color: #222;
+    background-color: #777;
     background-repeat: repeat-y;
     background-position: center;
     height: 325px;
