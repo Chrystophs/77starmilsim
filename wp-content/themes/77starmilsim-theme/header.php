@@ -14,11 +14,9 @@
     
     <title><?php wp_title(''); ?></title>
     
-    <link rel="shortcut icon" href="<?php bloginfo('stylesheet_directory'); ?>/favicon.ico" />
-
-    <!-- Tear Cloth -->
-
-    <link rel="stylesheet" type="text/css" href="../tear-cloth/style.css">
+    <!-- <link rel="shortcut icon" href="<?php bloginfo('stylesheet_directory'); ?>/favicon.ico" /> -->
+    <link rel="shortcut icon" href="<?php bloginfo('stylesheet_directory'); ?>/favicon.ico" type="image/x-icon">
+<link rel="icon" href="<?php bloginfo('stylesheet_directory'); ?>/favicon.ico" type="image/x-icon">
 
     <!--Carousel-->
     <link href="<?php bloginfo('stylesheet_directory'); ?>/jsImgSlider/themes/1/js-image-slider.css" rel="stylesheet" type="text/css" />
@@ -55,7 +53,7 @@
                 <?php $logo_header = of_get_option('logo_header');
 				  if ($logo_header) { ?>
 				   <a class="main-logo" href="<?php echo get_option('home'); ?>" title="<?php bloginfo('name'); ?>">
-                        <img src="<?php echo $logo_header; ?>" alt="<?php bloginfo('name'); ?>" class="img-responsive"/>
+                        <img src="<?php echo $logo_header; ?>" alt="<?php bloginfo('name'); ?>" class="img-responsive "/>
                    </a>
 				<?php } else { ?>
 					<a class="main-logo" href="<?php echo get_option('home'); ?>" title="<?php bloginfo('name'); ?>">
@@ -121,16 +119,15 @@
                         'fallback_cb'    => '__return_false')
                         );
                     ?>
-            <div class="social-links">
+            <div class="social-links login-hide pull-left margin-righ">
             <?php if ( is_user_logged_in() ) { ?>
             <a href="<?php echo wp_logout_url(''); ?>"><span class="glyphicon glyphicon-log-out white"> Logout</span></a>
                          
         <?php } else { ?>
 
             <a href="<?php echo wp_login_url(''); ?>"><span class="glyphicon glyphicon-log-in white"> Login</span></a>
-            <a href="<?php echo wp_login_url(''); ?>?action=register"><span class="glyphicon glyphicon-new-window white"> Register</span></a>
+            <a href="<?php echo get_option('home'); ?>/register"><span class="glyphicon glyphicon-new-window white"> Register</span></a>
         <?php } ?>
-                <?php get_template_part( 'partials/svg','declaration'); ?>
             </div>
                </div>
           </nav>

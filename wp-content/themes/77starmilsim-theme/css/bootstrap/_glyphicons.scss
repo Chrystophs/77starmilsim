@@ -20,7 +20,7 @@
 // Catchall baseclass
 .glyphicon {
   position: relative;
-  top: -5px;
+  top: 5px;
   display: inline-block;
   font-family: 'Glyphicons Halflings';
   font-style: normal;
@@ -29,6 +29,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding-right: 10px;
+  padding-bottom: 25px;
 }
 
 // Individual icons
