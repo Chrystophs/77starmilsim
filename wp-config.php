@@ -25,7 +25,7 @@ define('DB_USER', 'dbase77');
 define('DB_PASSWORD', 'Airsoft#1');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '209.17.116.156');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
