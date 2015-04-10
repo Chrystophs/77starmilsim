@@ -18,17 +18,6 @@ get_header();
                 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>	
                     <div class="content-block">
                         <article id="post-<?php the_ID(); ?>" role="article" itemscope itemtype="http://schema.org/WebPage">
-                        	<header class="article-header">
-                            	<h1 class="page-title" itemprop="headline">
-								  <?php
-                                    if(get_field('custom_page_headline_(h1)')) {
-                                          the_field('custom_page_headline_(h1)');
-                                    } else {
-                                          the_title();
-                                    }
-                                  ?>
-                                </h1>
-                            </header>
                             <section itemprop="articleBody">
 								<?php
                                   if(get_field('page_sub-headline_(h2)')) {
