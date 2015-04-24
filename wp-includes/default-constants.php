@@ -18,7 +18,7 @@ function wp_initial_constants() {
 	// set memory limits
 	if ( !defined('WP_MEMORY_LIMIT') ) {
 		if( is_multisite() ) {
-			define('WP_MEMORY_LIMIT', '64M');
+			define('WP_MEMORY_LIMIT', '128M');
 		} else {
 			define('WP_MEMORY_LIMIT', '128M');
 		}

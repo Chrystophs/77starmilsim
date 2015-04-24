@@ -55,14 +55,13 @@ get_header(); ?>
                             <?php while ( $loop->have_posts() ) : $loop->the_post(); ?>
                             <section>
                                 <div class="row">
-                                    
                                     <?php if ( has_post_thumbnail() ) { ?>
                                         <div class="col-xs-3">
                                              <?php the_post_thumbnail('medium',array('class'=>'img-responsive img-thumbnail')); ?>
                                         </div>
                                     <?php } ?>
                                     
-                                    <?php if ( has_post_thumbnail() ) { ?><div class="col-xs-9"><?php } else { ?><div class="col-xs-12"><?php } ?>
+                                    <?php if ( has_post_thumbnail() ) { ?><div class="col-xs-3"><?php } else { ?><div class="col-xs-12"><?php } ?>
                                     	<h3>
                                           	<?php the_title(); ?>
                                         </h3>
